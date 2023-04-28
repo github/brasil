@@ -1,0 +1,51 @@
+---
+Developer Productivity & Tools:
+  - editor-bootstrap/vim-bootstrap
+  - glorious-codes/glorious-demo
+  - fsouza/go-dockerclient
+  - kazzkiq/balloon.css
+  - lpereira/lwan
+  - dynaconf/dynaconf
+  - open-cli-tools/concurrently
+  - goreleaser/goreleaser
+  - htop-dev/htop
+  - heartcombo/devise
+  - ellisonleao/magictools
+  - go-task/task
+  - dracula/dracula-theme
+
+Observability:
+  - badtuxx/giropops-monitoring
+  
+Machine Learning:
+  - nubank/fklearn
+
+GitHub Power-Ups:
+  - iuricode/readme-template
+
+Learning & Education:
+  - leandromoreira/ffmpeg-libav-tutorial
+  - CollabCodeTech/backend-challenges
+  - badtuxx/DescomplicandoKubernetes
+  - badtuxx/DescomplicandoDocker
+  - Universidade-Livre/ciencia-da-computacao
+  - felipefialho/frontend-challenges
+
+UI/UX:
+  - milligram/milligram
+
+Data Science & Engineering:
+  - BrasilAPI/BrasilAPI
+
+Business Software:
+  - tsuru/tsuru
+  - RocketChat/Rocket.Chat
+
+Consumer Software:
+  - maykbrito/mini-video-me
+  - clappr/clappr
+  - devhubapp/devhub
+
+Software Testing:
+  - scanapi/scanapi
+  

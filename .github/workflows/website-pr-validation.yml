@@ -1,0 +1,61 @@
+name: Validate PR for githubbrasil.com website
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "website/**"
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Check format of yaml file
+        id: yaml-lint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          strict: true
+          file_or_dir: website/**/*.yml
+          config_data: |
+            rules:
+              empty-lines:
+                max: 1
+              hyphens:
+                max-spaces-after: 1
+              indentation:
+                spaces: consistent
+                indent-sequences: true
+                check-multi-line-strings: false
+              new-lines:
+                type: unix
+              colons:
+                max-spaces-before: 0
+                max-spaces-after: 1
+              empty-values:
+                forbid-in-block-mappings: true
+              key-duplicates: false
+            format: github
+  validate:
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v3
+      - name: Checkout main
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          repository: ${{ secrets.BRAZIL_REPO_NWO }}
+          path: ./brazil-main
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0.0
+      - name: Validate PR
+        run: |
+          gem install octokit safe_yaml
+          ruby brazil-main/script/website-pr-validation.rb
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRAZIL_REPO_NWO: ${{ secrets.BRAZIL_REPO_NWO }}
