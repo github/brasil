@@ -36,9 +36,9 @@ The open source movement in Brasil has gained significant momentum in recent yea
 
 ### Projects and Maintainers from Brasil
 
-There are many open-source projects that we might be using frequently, but unaware that it's a project that was created in or receiving significant contributions from Brasil. We have collated some of the projects and maintainers from Brasil on the [githubbrasil.com website](https://githubbrasil.com)
+There are many open-source projects that we might be using frequently, but unaware that it's a project that was created in or receiving significant contributions from Brasil. We have collated some of the projects and maintainers from Brasil on the [githubbrasil.com website].(https://githubbrasil.com)
 
-If you know of any other projects or maintainers from Brasil, feel free to make a [contribution](./CONTRIBUTING.md)
+If you know of any other projects or maintainers from Brasil, feel free to make a [contribution.](./CONTRIBUTING.md)
 
 ### Resources
 
@@ -65,7 +65,7 @@ If you know an inspiring community leader, [we want to hear about it.](https://s
 
 The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.
 
-Check out the stories of [Felipe De Morais](https://github.com/readme/stories/felipe-de-morais) and [Pedro Nauck](https://github.com/readme/stories/pedro-nauck) from Brasil.
+Check out the stories of [Felipe De Morais](https://github.com/readme/stories/felipe-de-morais) and [Pedro Nauck](https://github.com/readme/stories/pedro-nauck) from Brazil.
 
 We’re always on the lookout for inspiring developers who passionately dedicate themselves to their communities. Know somebody whose story deserves to be told? [Let us know](https://github.com/readme/nominate), and they could end up being featured on The ReadME Project.
 
@@ -77,15 +77,15 @@ GitHub Education helps students, teachers, and schools access the tools and even
 
 ### Campus Program
 
-With the GitHub Campus Program, your school will get a package of technical tools, training for faculty members, and support to grow technical communities on campus. Learn more and enroll your school in the [GitHub Campus Program](https://education.github.com/schools)
+With the GitHub Campus Program, your school will get a package of technical tools, training for faculty members, and support to grow technical communities on campus. Learn more and enroll your school in the [GitHub Campus Program.](https://education.github.com/schools)
 
 ### Student Developer Pack
 
-There's no substitute for hands-on experience. But for most students, real-world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends: to give students free access to the best developer tools in one place so they can learn by doing. Check out the tools and get your [Student Developer Pack](https://education.github.com/pack)
+There's no substitute for hands-on experience. But for most students, real-world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends: to give students free access to the best developer tools in one place so they can learn by doing. Check out the tools and get your [Student Developer Pack.](https://education.github.com/pack)
 
 ### Campus Experts
 
-Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects. Explore and connect with [Campus Experts from Brasil](https://githubcampus.expert/experts)
+Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects. Explore and connect with [Campus Experts from Brasil.](https://githubcampus.expert/experts)
 
 ---
 
@@ -117,7 +117,7 @@ You are also welcome to participate in [GitHub Discussions](https://github.com/g
 
 ## Contributing
 
-Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](CONTRIBUTING.MD)
+Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD)
 
 ---
 
@@ -198,15 +198,15 @@ O GitHub Education ajuda estudantes, professores e escolas a acessar as ferramen
 
 ### Programa Campus
 
-Com o Programa Campus do GitHub, sua escola receberá um pacote de ferramentas técnicas, treinamento para membros do corpo docente e suporte para crescer comunidades técnicas no campus. Saiba mais e inscreva sua escola no [Programa Campus do GitHub](https://education.github.com/schools)
+Com o Programa Campus do GitHub, sua escola receberá um pacote de ferramentas técnicas, treinamento para membros do corpo docente e suporte para crescer comunidades técnicas no campus. Saiba mais e inscreva sua escola no [Programa Campus do GitHub](https://education.github.com/schools).
 
 ### Student Developer Pack
 
-Não há substituto para a experiência prática. Mas, para a maioria dos estudantes, as ferramentas do mundo real podem ser proibitivas em termos de custo. É por isso que criamos o Student Developer Pack (Pacote de Desenvolvimento para Estudantes) do GitHub com alguns de nossos parceiros e amigos: para dar aos estudantes acesso gratuito às melhores ferramentas de desenvolvimento em um só lugar, para que possam aprender fazendo. Confira as ferramentas e obtenha seu [Student Developer Pack](https://education.github.com/pack)
+Não há substituto para a experiência prática. Mas, para a maioria dos estudantes, as ferramentas do mundo real podem ser proibitivas em termos de custo. É por isso que criamos o Student Developer Pack (Pacote de Desenvolvimento para Estudantes) do GitHub com alguns de nossos parceiros e amigos: para dar aos estudantes acesso gratuito às melhores ferramentas de desenvolvimento em um só lugar, para que possam aprender fazendo. Confira as ferramentas e obtenha seu [Student Developer Pack](https://education.github.com/pack).
 
 ### Campus Experts
 
-Campus Experts são líderes estudantis que se esforçam para construir espaços diversos e inclusivos para aprender habilidades, compartilhar suas experiências e construir projetos juntos. Podem ser encontrados em todo o mundo liderando conferências, meetups e hackathons presenciais e online, e mantendo projetos de código aberto. Explore e conecte-se com [ Campus Experts do Brasil](https://githubcampus.expert/experts)
+Campus Experts são líderes estudantis que se esforçam para construir espaços diversos e inclusivos para aprender habilidades, compartilhar suas experiências e construir projetos juntos. Podem ser encontrados em todo o mundo liderando conferências, meetups e hackathons presenciais e online, e mantendo projetos de código aberto. Explore e conecte-se com [Campus Experts do Brasil](https://githubcampus.expert/experts).
 
 ---
 
@@ -216,9 +216,9 @@ O Brasil possui uma grande comunidade de startups de tecnologia, com muitos empr
 
 ### GitHub para Startups
 
-O programa GitHub for Startups ajuda as startups a ir da ideia ao IPO na melhor plataforma de desenvolvimento de software do mundo com acesso gratuito ao GitHub Enterprise
+O programa GitHub for Startups ajuda as startups a ir da ideia ao IPO na melhor plataforma de desenvolvimento de software do mundo com acesso gratuito ao GitHub Enterprise.
 
-Para obter detalhes sobre o programa, [confira startups.github.com](https://startups.github.com)
+Para obter detalhes sobre o programa, [confira startups.github.com](https://startups.github.com).
 
 ---
 
@@ -238,7 +238,7 @@ Você também é bem-vindo para participar das [Discussões do GitHub](https://g
 
 ## Contribuindo
 
-Contribuições são bem-vindas para certas partes deste repositório. Para começar, confira [CONTRIBUTING.md](CONTRIBUTING.MD).
+Contribuições são bem-vindas para certas partes deste repositório. Para começar, confira For contributing to the content, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
 
 ---
 
