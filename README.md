@@ -36,9 +36,9 @@ The open source movement in Brasil has gained significant momentum in recent yea
 
 ### Projects and Maintainers from Brasil
 
-There are many open-source projects that we might be using frequently, but unaware that it's a project that was created in or receiving significant contributions from Brasil. We have collated some of the projects and maintainers from Brasil on the [githubbrasil.com website].(https://githubbrasil.com)
+There are many open-source projects that we might be using frequently, but unaware that it's a project that was created in or receiving significant contributions from Brasil. We have collated some of the projects and maintainers from Brasil on the [githubbrasil.com website](https://githubbrasil.com).
 
-If you know of any other projects or maintainers from Brasil, feel free to make a [contribution.](./CONTRIBUTING.md)
+If you know of any other projects or maintainers from Brasil, feel free to make a [contribution.](./CONTRIBUTING.md).
 
 ### Resources
 
@@ -58,7 +58,7 @@ GitHub Brasil Virtual Meetup group is for developers in Brasil, by developers in
 
 The GitHub Stars program thanks GitHub’s most influential developers and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. Say hello 👋🏼 to the [GitHub Stars from Brasil!](https://stars.github.com/profiles/?country=Brazil)
 
-If you know an inspiring community leader, [we want to hear about it.](https://stars.github.com/nominate/)
+If you know an inspiring community leader, [we want to hear about it](https://stars.github.com/nominate/).
 
 
 ### The ReadME Project
@@ -77,15 +77,15 @@ GitHub Education helps students, teachers, and schools access the tools and even
 
 ### Campus Program
 
-With the GitHub Campus Program, your school will get a package of technical tools, training for faculty members, and support to grow technical communities on campus. Learn more and enroll your school in the [GitHub Campus Program.](https://education.github.com/schools)
+With the GitHub Campus Program, your school will get a package of technical tools, training for faculty members, and support to grow technical communities on campus. Learn more and enroll your school in the [GitHub Campus Program](https://education.github.com/schools).
 
 ### Student Developer Pack
 
-There's no substitute for hands-on experience. But for most students, real-world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends: to give students free access to the best developer tools in one place so they can learn by doing. Check out the tools and get your [Student Developer Pack.](https://education.github.com/pack)
+There's no substitute for hands-on experience. But for most students, real-world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends: to give students free access to the best developer tools in one place so they can learn by doing. Check out the tools and get your [Student Developer Pack](https://education.github.com/pack).
 
 ### Campus Experts
 
-Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects. Explore and connect with [Campus Experts from Brasil.](https://githubcampus.expert/experts)
+Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects. Explore and connect with [Campus Experts from Brasil](https://githubcampus.expert/experts).
 
 ---
 
@@ -95,9 +95,9 @@ Brasil has a vibrant tech startup community, with many entrepreneurs choosing Gi
 
 ### GitHub for Startups
 
-GitHub for Startups program helps startups go from idea to IPO on the world’s best software development platform with free access to GitHub Enterprise
+GitHub for Startups program helps startups go from idea to IPO on the world’s best software development platform with free access to GitHub Enterprise.
 
-For details about the program, [check out startups.github.com](https://startups.github.com)
+For details about the program, [check out startups.github.com](https://startups.github.com).
 
 ---
 
@@ -117,7 +117,7 @@ You are also welcome to participate in [GitHub Discussions](https://github.com/g
 
 ## Contributing
 
-Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD)
+Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
 
 ---
 
@@ -158,9 +158,9 @@ O movimento de código aberto no Brasil tem ganhado impulso significativo nos ú
 
 ### Projetos e Pessoas Mantenedoras do Brasil
 
-Existem muitos projetos de código aberto que podemos estar usando frequentemente, mas sem saber que é um projeto criado ou recebendo contribuições significativas do Brasil. Nós reunimos alguns dos projetos e pessoas do Brasil no site [githubbrasil.com](https://githubbrasil.com)
+Existem muitos projetos de código aberto que podemos estar usando frequentemente, mas sem saber que é um projeto criado ou recebendo contribuições significativas do Brasil. Nós reunimos alguns dos projetos e pessoas do Brasil no site [githubbrasil.com](https://githubbrasil.com).
 
-Se você conhece outros projetos ou pessoa mantenedoras do Brasil, sinta-se à vontade para fazer uma [contribuição](./CONTRIBUTING.md)
+Se você conhece outros projetos ou pessoa mantenedoras do Brasil, sinta-se à vontade para fazer uma [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
 
 ### Recursos
 
@@ -178,9 +178,9 @@ O grupo de Meetup virtual do GitHub Brasil é para devs no Brasil, por devs no B
 
 ### GitHub Stars
 
-O programa Estrelas do GitHub agradece a pessoas desenvolvedoras mais influentes do GitHub e lhes dá uma plataforma para exibir seu trabalho, alcançar mais pessoas e moldar o futuro do GitHub. Dê um olá 👋🏼 às [Estrelas do GitHub do Brasil!](https://stars.github.com/profiles/?country=Brazil)
+O programa Estrelas do GitHub agradece a pessoas desenvolvedoras mais influentes do GitHub e lhes dá uma plataforma para exibir seu trabalho, alcançar mais pessoas e moldar o futuro do GitHub. Dê um olá 👋🏼 às [Estrelas do GitHub do Brasil!](https://stars.github.com/profiles/?country=Brazil).
 
-Se você conhece uma pessoa líder comunitário inspiradora e que te ensinou algo sobre Git, GitHub ou Open Source no geral, [queremos saber.](https://stars.github.com/nominate/)
+Se você conhece uma pessoa líder comunitário inspiradora e que te ensinou algo sobre Git, GitHub ou Open Source no geral, [queremos saber](https://stars.github.com/nominate/).
 
 ### O Projeto ReadME
 
