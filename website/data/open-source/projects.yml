@@ -14,6 +14,8 @@ Developer Productivity & Tools:
   - go-task/task
   - dracula/dracula-theme
   - OtacilioN/Brasilino
+  - felipefialho/kratos-boilerplate
+  - felipefialho/css-components
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -31,6 +33,7 @@ Learning & Education:
   - badtuxx/DescomplicandoDocker
   - Universidade-Livre/ciencia-da-computacao
   - felipefialho/frontend-challenges
+  - frontendbr/forum
 
 UI/UX:
   - milligram/milligram
