@@ -15,10 +15,11 @@ Developer Productivity & Tools:
   - dracula/dracula-theme
   - OtacilioN/Brasilino
   - brazilian-utils/brazilian-utils
+  - yagasaki7k/website-essentials
 
 Observability:
   - badtuxx/giropops-monitoring
-  
+
 Machine Learning:
   - nubank/fklearn
 
@@ -50,4 +51,6 @@ Consumer Software:
 
 Software Testing:
   - scanapi/scanapi
-  
+
+Games:
+  - yagasaki7k/runinlinux
