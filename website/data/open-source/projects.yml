@@ -17,6 +17,9 @@ Developer Productivity & Tools:
   - brazilian-utils/brazilian-utils
   - yagasaki7k/website-essentials
   - yagasaki7k/website-runinlinux
+  - raphamorim/react-ape
+  - avelino/awesome-go
+
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -49,6 +52,7 @@ Consumer Software:
   - maykbrito/mini-video-me
   - clappr/clappr
   - devhubapp/devhub
+  - raphamorim/rio
 
 Software Testing:
   - scanapi/scanapi
