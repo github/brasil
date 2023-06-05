@@ -127,7 +127,7 @@ def checkMaintainersData()
                 maintainer = getMaintainer(maintainerName)
                 issues = validateMaintainer(maintainer)
                 if issues.length() != 0
-                    preparePRComments("maintainers", issues, maintainerName)
+                    prepareJobSummary("maintainers", issues, maintainerName)
                 end
             rescue => e
                 @logger.info("Error #{e.response_status}")
@@ -136,11 +136,11 @@ def checkMaintainersData()
                     maintainer = getMaintainer(maintainerName)
                     issues = validateMaintainer(maintainer)
                     if issues.length() != 0
-                        preparePRComments("maintainers", issues, maintainerName)
+                        prepareJobSummary("maintainers", issues, maintainerName)
                     end
                 else
                     @logger.info("Error on maintainer: #{maintainerName}")
-                    preparePRComments("maintainers", ["User with username #{maintainerName} doesn't exist!"], maintainerName)
+                    prepareJobSummary("maintainers", ["User with username #{maintainerName} doesn't exist!"], maintainerName)
                 end
             end
         end
@@ -161,7 +161,7 @@ def checkProjectsData(fileName)
     end
     for category in projectsList.keys do
         if projectsList[category] == nil then
-            preparePRComments(issueCategory, ["Each category should contain atleast 1 project."], "#{category} in #{fileName}")
+            prepareJobSummary(issueCategory, ["Each category should contain atleast 1 project."], "#{category} in #{fileName}")
             next
         end
         for projectName in projectsList[category] do
@@ -169,7 +169,7 @@ def checkProjectsData(fileName)
                 project = getProject(projectName)
                 issues = validateProject(project, false)
                 if issues.length() != 0
-                    preparePRComments(issueCategory, issues, projectName)
+                    prepareJobSummary(issueCategory, issues, projectName)
                 end
             rescue => e
                 @logger.info("Error: #{e.response_status}")
@@ -178,11 +178,11 @@ def checkProjectsData(fileName)
                     project = getProject(projectName)
                     issues = validateProject(project, false)
                     if issues.length() != 0
-                        preparePRComments(issueCategory, issues, projectName)
+                        prepareJobSummary(issueCategory, issues, projectName)
                     end
                 else
                     @logger.info("Error on project: #{projectName}")
-                    preparePRComments(issueCategory, ["Project #{projectName} is either private or doesn't exist!"], projectName)
+                    prepareJobSummary(issueCategory, ["Project #{projectName} is either private or doesn't exist!"], projectName)
                 end
             end
         end
@@ -201,7 +201,7 @@ checkProjectsData("projects.yml")
 
 if MAINTAINERS_FAILED_VALIDATION.length() != 0 || OSSPROJECTS_FAILED_VALIDATION.length() != 0
     @logger.info("Creating Comment")
-    createPRSummary()
+    createJobSummary()
     exit(1)
 end
 @logger.info("-------------------------------")
