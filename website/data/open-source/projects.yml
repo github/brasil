@@ -1,4 +1,18 @@
 ---
+Business Software:
+  - tsuru/tsuru
+  - RocketChat/Rocket.Chat
+  - RocketChat/Rocket.Chat.ReactNative
+
+Consumer Software:
+  - maykbrito/mini-video-me
+  - clappr/clappr
+  - devhubapp/devhub
+  - raphamorim/rio
+  
+Data Science & Engineering:
+  - BrasilAPI/BrasilAPI
+  
 Developer Productivity & Tools:
   - editor-bootstrap/vim-bootstrap
   - glorious-codes/glorious-demo
@@ -18,16 +32,13 @@ Developer Productivity & Tools:
   - shellhub-io/shellhub
   - raphamorim/react-ape
   - avelino/awesome-go
-
-Observability:
-  - badtuxx/giropops-monitoring
   
-Machine Learning:
-  - nubank/fklearn
+Frameworks:
+  - expressots/expressots
 
 GitHub Power-Ups:
   - iuricode/readme-template
-
+  
 Learning & Education:
   - leandromoreira/ffmpeg-libav-tutorial
   - CollabCodeTech/backend-challenges
@@ -36,24 +47,15 @@ Learning & Education:
   - Universidade-Livre/ciencia-da-computacao
   - felipefialho/frontend-challenges
   - flaviojmendes/trilhainfo
+  
+Machine Learning:
+  - nubank/fklearn
 
-UI/UX:
-  - milligram/milligram
-
-Data Science & Engineering:
-  - BrasilAPI/BrasilAPI
-
-Business Software:
-  - tsuru/tsuru
-  - RocketChat/Rocket.Chat
-  - RocketChat/Rocket.Chat.ReactNative
-
-Consumer Software:
-  - maykbrito/mini-video-me
-  - clappr/clappr
-  - devhubapp/devhub
-  - raphamorim/rio
+Observability:
+  - badtuxx/giropops-monitoring
 
 Software Testing:
   - scanapi/scanapi
-  
+
+UI/UX:
+  - milligram/milligram
