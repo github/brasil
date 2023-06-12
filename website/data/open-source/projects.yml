@@ -32,6 +32,10 @@ Developer Productivity & Tools:
   - shellhub-io/shellhub
   - raphamorim/react-ape
   - avelino/awesome-go
+  - ujizin/camposer
+
+Observability:
+  - badtuxx/giropops-monitoring
   
 Frameworks:
   - expressots/expressots
@@ -57,5 +61,11 @@ Observability:
 Software Testing:
   - scanapi/scanapi
 
+
 UI/UX:
   - milligram/milligram
+
+  
+Security & Privacy:
+  - htrgouvea/nipe
+
