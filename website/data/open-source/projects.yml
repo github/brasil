@@ -17,8 +17,11 @@ Developer Productivity & Tools:
   - brazilian-utils/brazilian-utils
   - yagasaki7k/website-essentials
   - yagasaki7k/website-runinlinux
+  - shellhub-io/shellhub
+
   - raphamorim/react-ape
   - avelino/awesome-go
+  - ujizin/camposer
 
 
 Observability:
@@ -37,6 +40,7 @@ Learning & Education:
   - badtuxx/DescomplicandoDocker
   - Universidade-Livre/ciencia-da-computacao
   - felipefialho/frontend-challenges
+  - flaviojmendes/trilhainfo
 
 UI/UX:
   - milligram/milligram
@@ -47,6 +51,7 @@ Data Science & Engineering:
 Business Software:
   - tsuru/tsuru
   - RocketChat/Rocket.Chat
+  - RocketChat/Rocket.Chat.ReactNative
 
 Consumer Software:
   - maykbrito/mini-video-me
@@ -56,3 +61,8 @@ Consumer Software:
 
 Software Testing:
   - scanapi/scanapi
+
+  
+Security & Privacy:
+  - htrgouvea/nipe
+  
