@@ -40,6 +40,9 @@ Observability:
 Frameworks:
   - expressots/expressots
 
+Libraries:
+  - giggio/node-chromedriver 
+
 GitHub Power-Ups:
   - iuricode/readme-template
   
