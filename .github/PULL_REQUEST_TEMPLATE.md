@@ -1,42 +1,42 @@
-<!-- Thank you for contributing! -->
-### Please confirm this pull request meets the following requirements:
+<!-- Obrigado por contribuir! -->
+### Por favor, confirme se este pull request atende aos seguintes requisitos:
 
-- [ ] I followed the contributing guidelines: <https://github.com/github/brasil/blob/main/CONTRIBUTING.md>.
+- [ ] Segui as diretrizes de contribuição: https://github.com/github/brasil/blob/main/CONTRIBUTING.md.
 
-### Which change are you proposing?
+### Qual alteração você está propondo?
 
-  - [ ] Adding/updating open source project/s
-  - [ ] Adding/updating maintainer/s
-  
----
-
-<!-- ⚠️ Please select either this section... ⚠️ -->
-### Adding/updating open source project/s
-
-- [ ] The project was built in or receives significant contributions from Brazil
-- [ ] The project has at least 100 stargazers
-
-**Why should this open source project be featured?**
-
-> Please replace this line with an explanation of why you think these changes should be made.
-
-<!-- ⚠️ ... or this section ⚠️ -->
-### Adding/updating maintainer/s
-
-- [ ] Maintainer's location on their GitHub profile indicates as Brazil
-- [ ] Maintainer has approved this PR to be included on the website
-
-**What open source project/s does the individual maintain?**
-
-> Please replace this line with GitHub URLs to projects that the individual/s maintains
-
-<!-- ⚠️ ... or this section ⚠️ -->
-### Something that does not neatly fit into the binary options above
-
-- [ ] My suggested edits are not about an existing page, or at least not a single one
-
-> Please replace this line with an explanation of your proposed changes.
+- [ ] Adicionar/atualizar projeto(s) de código aberto
+- [ ] Adicionar/atualizar mantenedor(es)
 
 ---
 
-**Please note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information.**
+<!-- ⚠️ Por favor, selecione esta seção... ⚠️ -->
+### Adicionar/atualizar projeto(s) de código aberto
+
+- [ ] O projeto foi construído no Brasil ou recebe contribuições significativas do Brasil
+- [ ] O projeto possui pelo menos 100 pessoas marcando como favorito (stargazers)
+
+**Por que este projeto de código aberto deveria ser apresentado?**
+
+> Por favor, substitua esta linha por uma explicação do motivo pelo qual você acredita que essas alterações devem ser feitas.
+
+<!-- ⚠️ ... ou esta seção ⚠️ -->
+### Adicionar/atualizar mantenedor(es)
+
+- [ ] A localização do mantenedor em seu perfil do GitHub indica que é no Brasil
+- [ ] O mantenedor aprovou que este PR seja incluído no site
+
+**Quais projeto(s) de código aberto o indivíduo mantém?**
+
+> Por favor, substitua esta linha por URLs do GitHub para os projetos que o(s) indivíduo(s) mantém.
+
+<!-- ⚠️ ... ou esta seção ⚠️ -->
+### Algo que não se encaixa perfeitamente nas opções acima
+
+- [ ] Minhas edições sugeridas não se referem a uma página existente, ou pelo menos não a uma única página
+
+> Por favor, substitua esta linha por uma explicação das alterações propostas.
+
+---
+
+**Obs: fecharemos o seu PR sem comentários se você não marcar as caixas acima e fornecer TODAS as informações solicitadas.**
