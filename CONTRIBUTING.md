@@ -14,7 +14,7 @@ Leia nosso [Código de Conduta](./CODE_OF_CONDUCT.md) para manter nossa comunida
 ## Tipos de contribuição
 
 No momento, aceitamos contribuições apenas para conteúdos selecionados no [githubbrasil.com](https://githubbrasil.com). 
-O conteúdo para isso está localizado na sessão `website` desse repositório.
+O conteúdo para isso está localizado na seção `website` desse repositório.
 
 ## Diretrizes
 
@@ -27,47 +27,48 @@ O site githubbrasil.com destina-se a mostrar o ecossistema de código aberto no 
 - Limite seu PR a atualizar uma página por vez. Para atualizações de pessoas mantenedoras, limite a 5  em um PR.
 - Embora adoraríamos mostrar o maior número possível de projetos e pessoas mantenedoras, também queremos manter o site valioso para todas as pessoas desenvolvedoras. A equipe do GitHub usará seu julgamento e discrição nas aprovações de PRs.
 
-## fazendo mudanças
+## Fazendo mudanças
 
-### Fazendo mudanças de UI
+### Fazer mudanças de UI
 
 Clique em **Edit this page** no topo de qualquer página que aceita contribuições. 
 Isso vai te levar para um arquivo `.yml` onde você pode fazer suas mudanças e [criar um Pull Request](#pull-request) para review. 
 
-### Fazendo mudanças no Codespace
+### Fazer mudanças no Codespace
 
 Você também pode faer mudanças usando o GitHub Codespaces. 
-Para começar a usa-lo, veja "[Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)."
+Para começar a usa-lo, veja "[Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)".
 
 ### Fazer mudanças localmente
 
-1. De Fork (bifurque)  esse repositório.
+1. Faça o fork (bifurque) este repositório.
 - Usando GitHub Desktop:
-  - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) vai se ajudar a configurar o GitHub Desktop.
-  - Quando a configuração estiver completa, você pode dar [fork nesse repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
+  - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) irá te ajudar a configurar o GitHub Desktop.
+  - Quando a configuração estiver completa, você pode [criar um fork deste repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
 
 - Usando a linha de comando:
-  - [De fork nesse repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) para que você possa fazer suas alterações sem afetar o projeto original até que esteja pronto para dar merge.
+  - [Crie um fork deste repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) para que você possa fazer suas alterações sem afetar o projeto original até que estejam prontas para dar merge.
 
-2. Crie um branch de trabalho e comece suas mudanças!
+2. Crie uma branch de trabalho e comece suas mudanças!
 
-3. Commite as mudanças quando estiver contente com elas.
+3. Commite as alterações quando estiver contente com elas.
 
 
 ### Pull Request
 
 Quando você terminar suas modificações, crie um Pull Request, também conhecido como PR.
-- Complete o modelo para que possamos revisar seu PR (não esqueça de preencher todos os campos) 
-- Habilite a caixa [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) para que o branch possa ser atualizado para merge.
+- Preencha o modelo para que possamos revisar seu PR (não esqueça de preencher todos os campos).
+- Habilite a caixa "[allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork)" para que a branch possa ser atualizada para merge.
 Quando você submeter PR, alguém do time do GitHub vai avaliar sua proposta. Podemos fazer perguntas ou solicitar informações adicionais.
-- Nós podemos pedir para que mudanças sejam feitas antes de aceitar seu PR, usando [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) ou comentários na PullRequest. Você pode aplicar as alterações sugeridas diretamente por meio da UI. Você pode fazer outras mudanças no seu fork, e comita-las no seu branch.
+- Nós podemos pedir para que mudanças sejam feitas antes de aceitar seu PR, usando [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) ou comentários na Pull Request. Você pode aplicar as alterações sugeridas diretamente por meio da UI. Você também pode fazer outras mudanças no seu fork e commitá-las na branch.
 - Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 - Se você tiver qualquer problema, de uma olhada nesse [git tutorial](https://github.com/skills/resolve-merge-conflicts) para te ajudar a resolver conflitos de merge e outros problemas.
+
 ### Seu PR foi aceito!
 
-Parabéns:tada::tada: O time GitHub te agradece :sparkles:. 
+Parabéns :tada::tada:! O time GitHub te agradece :sparkles:. 
 
-As atualizações não aparecerão imediatamente depois qdo merge de seu PR. Colocamos essas alterações regularmente em githubbrasil.com.
+As atualizações não aparecerão imediatamente depois do merge de seu PR. Colocamos essas alterações regularmente em githubbrasil.com.
 
 </details>
 
