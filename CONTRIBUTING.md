@@ -37,17 +37,17 @@ Isso vai te levar para um arquivo `.yml` onde você pode fazer suas mudanças e 
 ### Fazer mudanças no Codespace
 
 Você também pode faer mudanças usando o GitHub Codespaces. 
-Para começar a usa-lo, veja "[Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)".
+Para começar a usa-lo, veja "[Guia de início rápido do GitHub Codespaces](https://docs.github.com/pt/codespaces/getting-started/quickstart)".
 
 ### Fazer mudanças localmente
 
 1. Faça o fork (bifurque) este repositório.
 - Usando GitHub Desktop:
-  - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) irá te ajudar a configurar o GitHub Desktop.
-  - Quando a configuração estiver completa, você pode [criar um fork deste repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
+  - [Introdução ao GitHub Desktop](https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) irá te ajudar a configurar o GitHub Desktop.
+  - Quando a configuração estiver completa, você pode [criar um fork deste repo](https://docs.github.com/pt/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)!
 
 - Usando a linha de comando:
-  - [Crie um fork deste repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) para que você possa fazer suas alterações sem afetar o projeto original até que estejam prontas para dar merge.
+  - [Crie um fork deste repo](https://docs.github.com/pt/get-started/quickstart/fork-a-repo) para que você possa fazer suas alterações sem afetar o projeto original até que estejam prontas para dar merge.
 
 2. Crie uma branch de trabalho e comece suas mudanças!
 
@@ -58,10 +58,10 @@ Para começar a usa-lo, veja "[Quickstart for GitHub Codespaces](https://docs.gi
 
 Quando você terminar suas modificações, crie um Pull Request, também conhecido como PR.
 - Preencha o modelo para que possamos revisar seu PR (não esqueça de preencher todos os campos).
-- Habilite a caixa "[allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork)" para que a branch possa ser atualizada para merge.
+- Habilite a caixa "[Permitir edições de mantenedores](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork)" para que a branch possa ser atualizada para merge.
 Quando você submeter PR, alguém do time do GitHub vai avaliar sua proposta. Podemos fazer perguntas ou solicitar informações adicionais.
-- Nós podemos pedir para que mudanças sejam feitas antes de aceitar seu PR, usando [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) ou comentários na Pull Request. Você pode aplicar as alterações sugeridas diretamente por meio da UI. Você também pode fazer outras mudanças no seu fork e commitá-las na branch.
-- Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
+- Nós podemos pedir para que mudanças sejam feitas antes de aceitar seu PR, usando [alterações sugeridas](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request) ou comentários na Pull Request. Você pode aplicar as alterações sugeridas diretamente por meio da UI. Você também pode fazer outras mudanças no seu fork e commitá-las na branch.
+- Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolvida](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#resolver-conversas).
 - Se você tiver qualquer problema, de uma olhada nesse [git tutorial](https://github.com/skills/resolve-merge-conflicts) para te ajudar a resolver conflitos de merge e outros problemas.
 
 ### Seu PR foi aceito!
