@@ -1,11 +1,11 @@
-# Support 
+# Suporte
 
-## How to file issues and get help
+## Como relatar problemas e obter ajuda
 
-This project uses GitHub issues to track bugs and feature requests. Please search the existing issues before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new issue.
+Este projeto utiliza as issues do GitHub para rastrear bugs e solicitações de recursos. Por favor, faça uma busca nas issues existentes antes de relatar novos problemas para evitar duplicatas. Para novos problemas, registre seu bug ou solicitação de recurso como uma nova issue.
 
-- GitHubBrasil.com is under active development and maintained by GitHub staff. We will do our best to respond to support, feature requests, and community questions in a timely manner.
+- O GitHubBrasil.com está em desenvolvimento ativo e é mantido pela equipe do GitHub. Faremos o possível para responder a solicitações de suporte, solicitações de recursos e perguntas da comunidade de maneira oportuna.
 
-## GitHub Support Policy
+## Política de suporte do GitHub
 
-Support for this project is limited to the resources listed above.
+O suporte para este projeto é limitado aos recursos listados acima.

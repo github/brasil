@@ -40,6 +40,9 @@ Observability:
 Frameworks:
   - expressots/expressots
 
+Libraries:
+  - giggio/node-chromedriver 
+
 GitHub Power-Ups:
   - iuricode/readme-template
   
@@ -60,12 +63,9 @@ Observability:
 
 Software Testing:
   - scanapi/scanapi
-
-
+  
 UI/UX:
   - milligram/milligram
-
   
 Security & Privacy:
   - htrgouvea/nipe
-
