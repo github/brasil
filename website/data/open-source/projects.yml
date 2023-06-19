@@ -29,13 +29,22 @@ Developer Productivity & Tools:
   - dracula/dracula-theme
   - OtacilioN/Brasilino
   - brazilian-utils/brazilian-utils
+  - yagasaki7k/website-essentials
+  - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
+
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
 
+
 Observability:
   - badtuxx/giropops-monitoring
+
+
+Machine Learning:
+  - nubank/fklearn
+
   
 Frameworks:
   - expressots/expressots
@@ -66,6 +75,9 @@ Software Testing:
   
 UI/UX:
   - milligram/milligram
+
+Software Testing:
+  - scanapi/scanapi
   
 Security & Privacy:
   - htrgouvea/nipe
