@@ -50,7 +50,8 @@ Frameworks:
   - expressots/expressots
 
 Libraries:
-  - giggio/node-chromedriver 
+  - giggio/node-chromedriver
+  - raulpesilva/re-state
 
 GitHub Power-Ups:
   - iuricode/readme-template
