@@ -137,7 +137,7 @@ You are also welcome to participate in [GitHub Discussions](https://github.com/g
 
 ## Contributing
 
-Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
+Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.md).
 
 ---
 

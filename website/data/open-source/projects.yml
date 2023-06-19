@@ -49,6 +49,8 @@ Machine Learning:
 Frameworks:
   - expressots/expressots
 
+Libraries:
+  - giggio/node-chromedriver 
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -70,8 +72,7 @@ Observability:
 
 Software Testing:
   - scanapi/scanapi
-
-
+  
 UI/UX:
   - milligram/milligram
 
@@ -81,3 +82,5 @@ Software Testing:
 Security & Privacy:
   - htrgouvea/nipe
 
+Azure DevOps Tools:
+  - vinijmoura/Azure-DevOps
