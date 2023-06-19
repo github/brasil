@@ -117,7 +117,7 @@ You are also welcome to participate in [GitHub Discussions](https://github.com/g
 
 ## Contributing
 
-Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
+Contributions are welcome to certain parts of this repository. For getting started, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.md).
 
 ---
 
@@ -160,7 +160,7 @@ O movimento de código aberto no Brasil tem ganhado impulso significativo nos ú
 
 Existem muitos projetos de código aberto que podemos estar usando frequentemente, mas sem saber que é um projeto criado ou recebendo contribuições significativas do Brasil. Nós reunimos alguns dos projetos e pessoas do Brasil no site [githubbrasil.com](https://githubbrasil.com).
 
-Se você conhece outros projetos ou pessoa mantenedoras do Brasil, sinta-se à vontade para fazer uma [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
+Se você conhece outros projetos ou pessoa mantenedoras do Brasil, sinta-se à vontade para fazer uma [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.md).
 
 ### Recursos
 
@@ -238,7 +238,7 @@ Você também é bem-vindo para participar das [Discussões do GitHub](https://g
 
 ## Contribuindo
 
-Contribuições são bem-vindas para certas partes deste repositório. Para começar, confira For contributing to the content, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.MD).
+Contribuições são bem-vindas para certas partes deste repositório. Para começar, confira For contributing to the content, check out [CONTRIBUTING.md](https://github.com/github/brasil/blob/main/CONTRIBUTING.md).
 
 ---
 
