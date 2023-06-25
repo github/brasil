@@ -9,10 +9,10 @@ Consumer Software:
   - clappr/clappr
   - devhubapp/devhub
   - raphamorim/rio
-  
+
 Data Science & Engineering:
   - BrasilAPI/BrasilAPI
-  
+
 Developer Productivity & Tools:
   - editor-bootstrap/vim-bootstrap
   - glorious-codes/glorious-demo
@@ -32,30 +32,29 @@ Developer Productivity & Tools:
   - yagasaki7k/website-essentials
   - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
-
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
-
+  - backend-br/vagas
+  - backend-br/desafios
 
 Observability:
   - badtuxx/giropops-monitoring
 
-
 Machine Learning:
   - nubank/fklearn
 
-  
 Frameworks:
   - expressots/expressots
 
 Libraries:
   - giggio/node-chromedriver
   - raulpesilva/re-state
+  - tiny-blocks/tiny-blocks
 
 GitHub Power-Ups:
   - iuricode/readme-template
-  
+
 Learning & Education:
   - leandromoreira/ffmpeg-libav-tutorial
   - CollabCodeTech/backend-challenges
@@ -64,22 +63,14 @@ Learning & Education:
   - Universidade-Livre/ciencia-da-computacao
   - felipefialho/frontend-challenges
   - flaviojmendes/trilhainfo
-  
-Machine Learning:
-  - nubank/fklearn
-
-Observability:
-  - badtuxx/giropops-monitoring
+  - gustavofreze/kotlin4noobs
 
 Software Testing:
   - scanapi/scanapi
-  
+
 UI/UX:
   - milligram/milligram
 
-Software Testing:
-  - scanapi/scanapi
-  
 Security & Privacy:
   - htrgouvea/nipe
 
