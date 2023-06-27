@@ -32,11 +32,10 @@ Developer Productivity & Tools:
   - yagasaki7k/website-essentials
   - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
-
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
-
+  - undistro/cel-playground
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -82,6 +81,8 @@ Software Testing:
   
 Security & Privacy:
   - htrgouvea/nipe
+  - undistro/zora
+  - undistro/marvin
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
