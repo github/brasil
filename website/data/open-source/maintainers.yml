@@ -1,23 +1,25 @@
 ---
 Brasilia:
   - cezarsa
-  
+
 Curitiba:
   - ellisonleao
- 
+
 São Paulo:
   - avelino
   - felipefialho
   - iuricode
+  - yagasaki7k
   - RafaelGSS
   - htrgouvea
   - giggio
   - rsaz
+  - vinijmoura
 
 
 Joinville:
   - andreynering
-  
+
 Porto Alegre:
   - hishamhm
 
@@ -25,7 +27,7 @@ Rio de Janeiro:
   - roberto-ieru
   - raphamorim
   - heynemann
-  
+
 Três Coroas - RS:
   - rodrigok
 
@@ -35,10 +37,10 @@ Igrejinha - RS:
 Florianópolis - SC:
   - eminetto
 
-Other States: 
+Other States:
   - josevalim
   - zenorocha
-  - camilamaia 
+  - camilamaia
   - erikaheidi
   - badtuxx
   - caarlos0
