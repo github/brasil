@@ -29,19 +29,29 @@ Developer Productivity & Tools:
   - dracula/dracula-theme
   - OtacilioN/Brasilino
   - brazilian-utils/brazilian-utils
+  - yagasaki7k/website-essentials
+  - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
+
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
 
+
 Observability:
   - badtuxx/giropops-monitoring
+
+
+Machine Learning:
+  - nubank/fklearn
+
   
 Frameworks:
   - expressots/expressots
 
 Libraries:
-  - giggio/node-chromedriver 
+  - giggio/node-chromedriver
+  - raulpesilva/re-state
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -66,7 +76,15 @@ Software Testing:
   
 UI/UX:
   - milligram/milligram
+
+Software Testing:
+  - scanapi/scanapi
   
 Security & Privacy:
   - htrgouvea/nipe
   - halencarjunior/BugBuntu
+
+
+Azure DevOps Tools:
+  - vinijmoura/Azure-DevOps
+
