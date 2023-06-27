@@ -32,7 +32,6 @@ Developer Productivity & Tools:
   - yagasaki7k/website-essentials
   - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
-
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
@@ -40,11 +39,6 @@ Developer Productivity & Tools:
 
 Observability:
   - badtuxx/giropops-monitoring
-
-
-Machine Learning:
-  - nubank/fklearn
-
   
 Frameworks:
   - expressots/expressots
