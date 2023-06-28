@@ -9,10 +9,10 @@ Consumer Software:
   - clappr/clappr
   - devhubapp/devhub
   - raphamorim/rio
-  
+
 Data Science & Engineering:
   - BrasilAPI/BrasilAPI
-  
+
 Developer Productivity & Tools:
   - editor-bootstrap/vim-bootstrap
   - glorious-codes/glorious-demo
@@ -29,30 +29,32 @@ Developer Productivity & Tools:
   - dracula/dracula-theme
   - OtacilioN/Brasilino
   - brazilian-utils/brazilian-utils
-  - yagasaki7k/website-essentials
-  - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
   - undistro/cel-playground
+  - backend-br/vagas
+  - backend-br/desafios
 
 Observability:
   - badtuxx/giropops-monitoring
 
 Machine Learning:
   - nubank/fklearn
-
+  
+Observability:
+  - badtuxx/giropops-monitoring
+  
 Frameworks:
   - expressots/expressots
 
 Libraries:
   - giggio/node-chromedriver
-  - raulpesilva/re-state
 
 GitHub Power-Ups:
   - iuricode/readme-template
-  
+
 Learning & Education:
   - leandromoreira/ffmpeg-libav-tutorial
   - CollabCodeTech/backend-challenges
@@ -61,6 +63,9 @@ Learning & Education:
   - Universidade-Livre/ciencia-da-computacao
   - felipefialho/frontend-challenges
   - flaviojmendes/trilhainfo
+  - gustavofreze/kotlin4noobs
+  - OtacilioN/awesome-hacktoberfest
+  - ReciHub/FunnyAlgorithms
   
 Machine Learning:
   - nubank/fklearn
@@ -70,17 +75,15 @@ Observability:
 
 Software Testing:
   - scanapi/scanapi
-  
+
 UI/UX:
   - milligram/milligram
 
-Software Testing:
-  - scanapi/scanapi
-  
 Security & Privacy:
   - htrgouvea/nipe
   - undistro/zora
   - undistro/marvin
+  - halencarjunior/BugBuntu
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
