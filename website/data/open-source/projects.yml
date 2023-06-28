@@ -29,8 +29,6 @@ Developer Productivity & Tools:
   - dracula/dracula-theme
   - OtacilioN/Brasilino
   - brazilian-utils/brazilian-utils
-  - yagasaki7k/website-essentials
-  - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
   - raphamorim/react-ape
   - avelino/awesome-go
@@ -44,7 +42,6 @@ Frameworks:
 
 Libraries:
   - giggio/node-chromedriver
-  - raulpesilva/re-state
 
 GitHub Power-Ups:
   - iuricode/readme-template
