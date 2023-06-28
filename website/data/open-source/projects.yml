@@ -29,8 +29,6 @@ Developer Productivity & Tools:
   - dracula/dracula-theme
   - OtacilioN/Brasilino
   - brazilian-utils/brazilian-utils
-  - yagasaki7k/website-essentials
-  - yagasaki7k/website-runinlinux
   - shellhub-io/shellhub
   - raphamorim/react-ape
   - avelino/awesome-go
@@ -44,6 +42,9 @@ Observability:
 Machine Learning:
   - nubank/fklearn
 
+Observability:
+  - badtuxx/giropops-monitoring
+  
 Frameworks:
   - expressots/expressots
 
@@ -64,6 +65,14 @@ Learning & Education:
   - felipefialho/frontend-challenges
   - flaviojmendes/trilhainfo
   - gustavofreze/kotlin4noobs
+  - OtacilioN/awesome-hacktoberfest
+  - ReciHub/FunnyAlgorithms
+  
+Machine Learning:
+  - nubank/fklearn
+
+Observability:
+  - badtuxx/giropops-monitoring
 
 Software Testing:
   - scanapi/scanapi
@@ -73,6 +82,7 @@ UI/UX:
 
 Security & Privacy:
   - htrgouvea/nipe
+  - halencarjunior/BugBuntu
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
