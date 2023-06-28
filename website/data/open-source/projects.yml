@@ -1,4 +1,7 @@
 ---
+Accessibility:
+  - folhascadentes/mamao-app
+
 Business Software:
   - tsuru/tsuru
   - RocketChat/Rocket.Chat
