@@ -33,6 +33,7 @@ Developer Productivity & Tools:
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
+  - undistro/cel-playground
   - backend-br/vagas
   - backend-br/desafios
 
@@ -41,7 +42,7 @@ Observability:
 
 Machine Learning:
   - nubank/fklearn
-
+  
 Observability:
   - badtuxx/giropops-monitoring
   
@@ -80,6 +81,8 @@ UI/UX:
 
 Security & Privacy:
   - htrgouvea/nipe
+  - undistro/zora
+  - undistro/marvin
   - halencarjunior/BugBuntu
 
 Azure DevOps Tools:
