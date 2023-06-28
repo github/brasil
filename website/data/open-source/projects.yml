@@ -50,8 +50,6 @@ Frameworks:
 
 Libraries:
   - giggio/node-chromedriver
-  - raulpesilva/re-state
-  - tiny-blocks/tiny-blocks
 
 GitHub Power-Ups:
   - iuricode/readme-template
