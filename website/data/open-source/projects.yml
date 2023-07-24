@@ -55,6 +55,7 @@ Frameworks:
 
 Libraries:
   - giggio/node-chromedriver
+  - ErickSimoes/Ultrasonic
 
 GitHub Power-Ups:
   - iuricode/readme-template
