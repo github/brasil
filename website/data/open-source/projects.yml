@@ -41,6 +41,7 @@ Developer Productivity & Tools:
   - backend-br/desafios
   - daltonmenezes/aura-theme
   - daltonmenezes/electron-app
+  - rikatz/kubepug
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -56,8 +57,8 @@ Frameworks:
 
 Libraries:
   - giggio/node-chromedriver
-  - daltonmenezes/interprocess
-  - daltonmenezes/use-exit-intent
+  - ErickSimoes/Ultrasonic
+
 
 GitHub Power-Ups:
   - iuricode/readme-template
