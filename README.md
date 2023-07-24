@@ -11,7 +11,7 @@
 
 In this repo, you can find resources and information for the developer community in Brasil.
 
-- [Welcome to GitHub Brasil 🇧🇷](#welcome-to-github-brasil-🇧🇷)
+- ENGLISH [Welcome to GitHub Brasil 🇧🇷](#welcome-to-github-brasil-🇧🇷)
   - [🧑‍💻  Open Source](#🧑‍💻-open-source)
     - [Projects and Maintainers from Brasil](#projects-and-maintainers-from-brasil)
     - [Resources](#resources)
@@ -153,25 +153,7 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 
 Neste repositório, você pode encontrar recursos e informações para a comunidade de pessoas desenvolvedoras no Brasil.
 
-- [Welcome to GitHub Brasil 🇧🇷](#welcome-to-github-brasil-)
-  - [🧑‍💻  Open Source](#--open-source)
-    - [Projects and Maintainers from Brasil](#projects-and-maintainers-from-brasil)
-    - [Resources](#resources)
-  - [:octocat:  Developers](#octocat--developers)
-    - [Meetups](#meetups)
-    - [GitHub Stars](#github-stars)
-    - [The ReadME Project](#the-readme-project)
-  - [🧑‍🎓 Students](#-students)
-    - [Campus Program](#campus-program)
-    - [Student Developer Pack](#student-developer-pack)
-    - [Campus Experts](#campus-experts)
-  - [📈 Startups](#-startups)
-    - [GitHub for Startups](#github-for-startups)
-  - [📢 Events](#-events)
-  - [💬 Let's connect](#-lets-connect)
-  - [Contributing](#contributing)
-  - [📜 License](#-license)
-- [Boas vindas ao GitHub Brasil 🇧🇷](#boas-vindas-ao-github-brasil-)
+- PORTUGUÊS [Boas vindas ao GitHub Brasil 🇧🇷](#boas-vindas-ao-github-brasil-)
   - [🧑‍💻 Código Aberto](#-código-aberto)
     - [Projetos e Pessoas Mantenedoras do Brasil](#projetos-e-pessoas-mantenedoras-do-brasil)
     - [Recursos](#recursos)
