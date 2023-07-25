@@ -1,7 +1,4 @@
 ---
-Accessibility:
-  - folhascadentes/mamao-app
-
 Business Software:
   - tsuru/tsuru
   - RocketChat/Rocket.Chat
@@ -36,7 +33,6 @@ Developer Productivity & Tools:
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
-  - undistro/cel-playground
   - backend-br/vagas
   - backend-br/desafios
   - daltonmenezes/aura-theme
@@ -89,7 +85,6 @@ UI/UX:
 Security & Privacy:
   - htrgouvea/nipe
   - undistro/zora
-  - undistro/marvin
   - halencarjunior/BugBuntu
 
 Azure DevOps Tools:
