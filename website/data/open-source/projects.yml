@@ -48,17 +48,16 @@ Observability:
 
 Machine Learning:
   - nubank/fklearn
-  
+
 Observability:
   - badtuxx/giropops-monitoring
-  
+
 Frameworks:
   - expressots/expressots
 
 Libraries:
   - giggio/node-chromedriver
   - ErickSimoes/Ultrasonic
-
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -74,7 +73,7 @@ Learning & Education:
   - gustavofreze/kotlin4noobs
   - OtacilioN/awesome-hacktoberfest
   - ReciHub/FunnyAlgorithms
-  
+
 Machine Learning:
   - nubank/fklearn
 
