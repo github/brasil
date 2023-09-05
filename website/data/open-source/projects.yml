@@ -1,7 +1,4 @@
 ---
-Accessibility:
-  - folhascadentes/mamao-app
-
 Business Software:
   - tsuru/tsuru
   - RocketChat/Rocket.Chat
@@ -36,7 +33,6 @@ Developer Productivity & Tools:
   - raphamorim/react-ape
   - avelino/awesome-go
   - ujizin/camposer
-  - undistro/cel-playground
   - backend-br/vagas
   - backend-br/desafios
   - daltonmenezes/aura-theme
@@ -48,10 +44,10 @@ Observability:
 
 Machine Learning:
   - nubank/fklearn
-  
+
 Observability:
   - badtuxx/giropops-monitoring
-  
+
 Frameworks:
   - expressots/expressots
 
@@ -60,7 +56,6 @@ Libraries:
   - ErickSimoes/Ultrasonic
   - leandromoreira/redlock-rb
   - globocom/m3u8
-
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -79,7 +74,7 @@ Learning & Education:
   - leandromoreira/digital_video_introduction
   - leandromoreira/cdn-up-and-running
   - leandromoreira/linux-network-performance-parameters
-  
+
 Machine Learning:
   - nubank/fklearn
 
@@ -95,7 +90,6 @@ UI/UX:
 Security & Privacy:
   - htrgouvea/nipe
   - undistro/zora
-  - undistro/marvin
   - halencarjunior/BugBuntu
 
 Azure DevOps Tools:
