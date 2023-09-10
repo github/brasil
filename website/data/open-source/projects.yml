@@ -1,91 +1,87 @@
----
 Business Software:
-  - tsuru/tsuru
-  - RocketChat/Rocket.Chat
-  - RocketChat/Rocket.Chat.ReactNative
+- tsuru/tsuru
+- RocketChat/Rocket.Chat
+- RocketChat/Rocket.Chat.ReactNative
 
 Consumer Software:
-  - maykbrito/mini-video-me
-  - clappr/clappr
-  - devhubapp/devhub
-  - raphamorim/rio
+- maykbrito/mini-video-me
+- clappr/clappr
+- devhubapp/devhub
+- raphamorim/rio
 
 Data Science & Engineering:
-  - BrasilAPI/BrasilAPI
+- BrasilAPI/BrasilAPI
 
 Developer Productivity & Tools:
-  - editor-bootstrap/vim-bootstrap
-  - glorious-codes/glorious-demo
-  - fsouza/go-dockerclient
-  - kazzkiq/balloon.css
-  - lpereira/lwan
-  - dynaconf/dynaconf
-  - open-cli-tools/concurrently
-  - goreleaser/goreleaser
-  - htop-dev/htop
-  - heartcombo/devise
-  - ellisonleao/magictools
-  - go-task/task
-  - dracula/dracula-theme
-  - OtacilioN/Brasilino
-  - brazilian-utils/brazilian-utils
-  - shellhub-io/shellhub
-  - raphamorim/react-ape
-  - avelino/awesome-go
-  - ujizin/camposer
-  - backend-br/vagas
-  - backend-br/desafios
-  - daltonmenezes/aura-theme
-  - daltonmenezes/electron-app
-  - rikatz/kubepug
+- editor-bootstrap/vim-bootstrap
+- glorious-codes/glorious-demo
+- fsouza/go-dockerclient
+- kazzkiq/balloon.css
+- lpereira/lwan
+- dynaconf/dynaconf
+- open-cli-tools/concurrently
+- goreleaser/goreleaser
+- htop-dev/htop
+- heartcombo/devise
+- ellisonleao/magictools
+- go-task/task
+- dracula/dracula-theme
+- OtacilioN/Brasilino
+- brazilian-utils/brazilian-utils
+- shellhub-io/shellhub
+- raphamorim/react-ape
+- avelino/awesome-go
+- ujizin/camposer
+- backend-br/vagas
+- backend-br/desafios
+- daltonmenezes/aura-theme
+- daltonmenezes/electron-app
+- rikatz/kubepug
 
 Observability:
-  - badtuxx/giropops-monitoring
+- badtuxx/giropops-monitoring
 
 Machine Learning:
-  - nubank/fklearn
-
-Observability:
-  - badtuxx/giropops-monitoring
+- nubank/fklearn
 
 Frameworks:
-  - expressots/expressots
+- expressots/expressots
 
 Libraries:
-  - giggio/node-chromedriver
-  - ErickSimoes/Ultrasonic
+- giggio/node-chromedriver
+- ErickSimoes/Ultrasonic
 
 GitHub Power-Ups:
-  - iuricode/readme-template
+- iuricode/readme-template
 
 Learning & Education:
-  - leandromoreira/ffmpeg-libav-tutorial
-  - CollabCodeTech/backend-challenges
-  - badtuxx/DescomplicandoKubernetes
-  - badtuxx/DescomplicandoDocker
-  - Universidade-Livre/ciencia-da-computacao
-  - felipefialho/frontend-challenges
-  - flaviojmendes/trilhainfo
-  - gustavofreze/kotlin4noobs
-  - OtacilioN/awesome-hacktoberfest
-  - ReciHub/FunnyAlgorithms
+- leandromoreira/ffmpeg-libav-tutorial
+- CollabCodeTech/backend-challenges
+- badtuxx/DescomplicandoKubernetes
+- badtuxx/DescomplicandoDocker
+- Universidade-Livre/ciencia-da-computacao
+- felipefialho/frontend-challenges
+- flaviojmendes/trilhainfo
+- gustavofreze/kotlin4noobs
+- OtacilioN/awesome-hacktoberfest
+- ReciHub/FunnyAlgorithms
 
 Machine Learning:
-  - nubank/fklearn
+- nubank/fklearn
 
 Observability:
-  - badtuxx/giropops-monitoring
+- badtuxx/giropops-monitoring
 
 Software Testing:
-  - scanapi/scanapi
+- scanapi/scanapi
 
 UI/UX:
-  - milligram/milligram
+- milligram/milligram
 
 Security & Privacy:
-  - htrgouvea/nipe
-  - undistro/zora
-  - halencarjunior/BugBuntu
+- htrgouvea/nipe
+- undistro/zora
+- halencarjunior/BugBuntu
 
 Azure DevOps Tools:
-  - vinijmoura/Azure-DevOps
+- vinijmoura/Azure-DevOps
