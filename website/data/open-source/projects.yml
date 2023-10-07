@@ -55,6 +55,8 @@ Frameworks:
 Libraries:
   - giggio/node-chromedriver
   - ErickSimoes/Ultrasonic
+  - leandromoreira/redlock-rb
+  - globocom/m3u8
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -70,6 +72,9 @@ Learning & Education:
   - gustavofreze/kotlin4noobs
   - OtacilioN/awesome-hacktoberfest
   - ReciHub/FunnyAlgorithms
+  - leandromoreira/digital_video_introduction
+  - leandromoreira/cdn-up-and-running
+  - leandromoreira/linux-network-performance-parameters
 
 Machine Learning:
   - nubank/fklearn
