@@ -39,6 +39,7 @@ Developer Productivity & Tools:
   - daltonmenezes/electron-app
   - rikatz/kubepug
   - TadaSoftware/PyNFe
+  - clojure-lsp/clojure-lsp
 
 Observability:
   - badtuxx/giropops-monitoring
