@@ -39,6 +39,7 @@ Developer Productivity & Tools:
   - daltonmenezes/electron-app
   - rikatz/kubepug
   - TadaSoftware/PyNFe
+  - clojure-lsp/clojure-lsp
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -57,6 +58,7 @@ Libraries:
   - ErickSimoes/Ultrasonic
   - leandromoreira/redlock-rb
   - globocom/m3u8
+  - zio/zio-quill
 
 GitHub Power-Ups:
   - iuricode/readme-template
