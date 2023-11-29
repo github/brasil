@@ -59,6 +59,7 @@ Libraries:
   - leandromoreira/redlock-rb
   - globocom/m3u8
   - zio/zio-quill
+  - brazilian-utils/brutils-python
 
 GitHub Power-Ups:
   - iuricode/readme-template
