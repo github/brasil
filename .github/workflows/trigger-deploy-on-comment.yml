@@ -13,7 +13,7 @@ jobs:
           script: |
             // Check if the user trying to deploy is an authorized user
             const creator = context.payload.sender.login
-            const authorizedHandles = ["mvkaran", "andreagriffiths11", "pachicodes", "abhinavrajesh"]
+            const authorizedHandles = ["mvkaran", "andreagriffiths11"]
             if(!authorizedHandles.includes(creator.toLowerCase())) {
               core.setFailed("User not authorized to deploy")
             }
