@@ -52,6 +52,7 @@ Observability:
 
 Frameworks:
   - expressots/expressots
+  - botcity-dev/botcity-framework-core-python
 
 Libraries:
   - giggio/node-chromedriver
