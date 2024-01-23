@@ -52,6 +52,7 @@ Observability:
 
 Frameworks:
   - expressots/expressots
+  - botcity-dev/botcity-framework-core-python
 
 Libraries:
   - giggio/node-chromedriver
@@ -78,6 +79,7 @@ Learning & Education:
   - leandromoreira/digital_video_introduction
   - leandromoreira/cdn-up-and-running
   - leandromoreira/linux-network-performance-parameters
+  - levxyca/diciotech
 
 Machine Learning:
   - nubank/fklearn
