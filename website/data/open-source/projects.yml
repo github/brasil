@@ -40,6 +40,7 @@ Developer Productivity & Tools:
   - rikatz/kubepug
   - TadaSoftware/PyNFe
   - clojure-lsp/clojure-lsp
+  - vsouza/docker-SQS-local
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -100,3 +101,6 @@ Security & Privacy:
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
+
+Awesome Lists:
+  - vsouza/awesome-ios
