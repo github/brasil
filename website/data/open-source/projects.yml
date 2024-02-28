@@ -53,6 +53,7 @@ Observability:
 Frameworks:
   - expressots/expressots
   - botcity-dev/botcity-framework-core-python
+  - ionited/mesh
 
 Libraries:
   - giggio/node-chromedriver
