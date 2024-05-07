@@ -40,6 +40,10 @@ Developer Productivity & Tools:
   - rikatz/kubepug
   - TadaSoftware/PyNFe
   - clojure-lsp/clojure-lsp
+  - vsouza/docker-SQS-local
+
+DevOps:
+  - rapha-borges/oke-free
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -91,7 +95,6 @@ Observability:
 
 Software Testing:
   - scanapi/scanapi
-  - wellwelwel/poku
 
 UI/UX:
   - milligram/milligram
@@ -103,3 +106,6 @@ Security & Privacy:
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
+
+Awesome Lists:
+  - vsouza/awesome-ios
