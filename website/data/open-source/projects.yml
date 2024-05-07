@@ -42,6 +42,9 @@ Developer Productivity & Tools:
   - clojure-lsp/clojure-lsp
   - vsouza/docker-SQS-local
 
+DevOps:
+  - rapha-borges/oke-free
+
 Observability:
   - badtuxx/giropops-monitoring
 
