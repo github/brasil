@@ -65,6 +65,7 @@ Libraries:
   - zio/zio-quill
   - brazilian-utils/brutils-python
   - fazedordecodigo/pyflunt
+  - andrebaltieri/Flunt
 
 GitHub Power-Ups:
   - iuricode/readme-template
