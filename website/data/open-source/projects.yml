@@ -40,7 +40,6 @@ Developer Productivity & Tools:
   - rikatz/kubepug
   - TadaSoftware/PyNFe
   - clojure-lsp/clojure-lsp
-  - vsouza/docker-SQS-local
 
 DevOps:
   - rapha-borges/oke-free
@@ -105,6 +104,3 @@ Security & Privacy:
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
-
-Awesome Lists:
-  - vsouza/awesome-ios
