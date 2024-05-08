@@ -41,6 +41,9 @@ Developer Productivity & Tools:
   - TadaSoftware/PyNFe
   - clojure-lsp/clojure-lsp
 
+DevOps:
+  - rapha-borges/oke-free
+
 Observability:
   - badtuxx/giropops-monitoring
 
@@ -62,6 +65,7 @@ Libraries:
   - zio/zio-quill
   - brazilian-utils/brutils-python
   - fazedordecodigo/pyflunt
+  - andrebaltieri/Flunt
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -90,7 +94,6 @@ Observability:
 
 Software Testing:
   - scanapi/scanapi
-  - wellwelwel/poku
 
 UI/UX:
   - milligram/milligram
