@@ -67,6 +67,8 @@ Libraries:
   - brazilian-utils/brutils-python
   - fazedordecodigo/pyflunt
   - andrebaltieri/Flunt
+  - arthurfiorette/axios-cache-interceptor
+  - kitajs/html
 
 GitHub Power-Ups:
   - iuricode/readme-template
