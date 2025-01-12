@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Check format of yaml file
         id: yaml-lint
-        uses: ibiqlik/action-yamllint@v3
+        uses: ibiqlik/action-yamllint@2576378a8e339169678f9939646ee3ee325e845c #v3.1.1
         with:
           strict: true
           file_or_dir: website/**/*.yml
@@ -49,7 +49,7 @@ jobs:
           ref: main
           repository: ${{ secrets.BRAZIL_REPO_NWO }}
           path: ./brazil-main
-      - uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4 #v1.207.0
         with:
           ruby-version: 3.0.0
       - name: Validate PR
