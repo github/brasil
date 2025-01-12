@@ -2,6 +2,7 @@ name: Trigger deploy on comment
 on:
   issue_comment:
     types: [created]
+permissions: read-all
 jobs:
   if_merged:
     if: github.event.issue.pull_request && contains(github.event.comment.body, '/deploy')
