@@ -1,16 +1,73 @@
 ---
+Acre:
+
+Alagoas:
+
+
+
 Bahia:
   - daltonmenezes
 
-Brasilia:
+Ceará: 
+
+
+
+Distrito Federal:
   - cezarsa
 
+Espírito Santo:
+- fazedordecodigo
+
+Goiás: 
+
+Maranhão:
+
+Mato Grosso:
+ - leogregianin
+ 
+Mato Grosso do Sul:
+Minas Gerais:
+  - zecruel
+  
+Pará:
+
+Paraíba:
+  - OtacilioN
+  
 Paraná:
   - ellisonleao
   - RenanTashiro
   - guiseek
   - MauricioFauth
+  
+Pernambuco:
+  - ErickSimoes
+  
+Piauí:
 
+Rio de Janeiro:
+  - roberto-ieru
+  - raphamorim
+  - heynemann
+  - diegolmello
+
+Rio Grande do Norte:
+
+Rio Grande do Sul:
+  - fabriziomello
+  - rodrigok
+  - hishamhm
+  - cpanato
+  
+Rondônia:
+Roraima:
+
+Santa Catarina:
+  - andreynering
+  - eminetto
+  - knabben
+
+  
 São Paulo:
   - avelino
   - felipefialho
@@ -24,55 +81,17 @@ São Paulo:
   - rikatz
   - ericdallo
   - andrebaltieri
-
-Sumaré - SP:
+  - IvanildoBarauna
   - abehidek
   - viniciusventura29
-
-Joinville:
-  - andreynering
-
-Paraíba:
-  - OtacilioN
-
-Pernambuco:
-  - ErickSimoes
-
-Porto Alegre:
-  - hishamhm
-  - cpanato
-
-Rio de Janeiro:
-  - roberto-ieru
-  - raphamorim
-  - heynemann
-
-Espirito Santo:
-  - fazedordecodigo
-
-Mato Grosso:
-  - leogregianin
-
-Três Coroas - RS:
-  - rodrigok
-
-Igrejinha - RS:
-  - diegolmello
-
-Florianópolis - SC:
-  - eminetto
-  - knabben
-
-Palmas - TO:
+  
+Sergipe:
+Tocantins:
   - luzfcb
 
-Bagé - RS:
-  - fabriziomello
-
-Minas Gerais:
-  - zecruel
 
 Morando fora do Brasil:
+
   - josevalim
   - zenorocha
   - camilamaia
