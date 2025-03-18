@@ -12,6 +12,7 @@ Consumer Software:
 
 Data Science & Engineering:
   - BrasilAPI/BrasilAPI
+  - zecruel/CadZinho
 
 Developer Productivity & Tools:
   - editor-bootstrap/vim-bootstrap
@@ -37,9 +38,13 @@ Developer Productivity & Tools:
   - backend-br/desafios
   - daltonmenezes/aura-theme
   - daltonmenezes/electron-app
-  - rikatz/kubepug
+  - kubepug/kubepug
   - TadaSoftware/PyNFe
   - clojure-lsp/clojure-lsp
+  - vsouza/docker-SQS-local
+
+DevOps:
+  - rapha-borges/oke-free
 
 Observability:
   - badtuxx/giropops-monitoring
@@ -63,6 +68,10 @@ Libraries:
   - zio/zio-quill
   - brazilian-utils/brutils-python
   - fazedordecodigo/pyflunt
+  - andrebaltieri/Flunt
+  - arthurfiorette/axios-cache-interceptor
+  - kitajs/html
+  - ivanildobarauna-dev/api-to-dataframe
 
 GitHub Power-Ups:
   - iuricode/readme-template
@@ -102,3 +111,6 @@ Security & Privacy:
 
 Azure DevOps Tools:
   - vinijmoura/Azure-DevOps
+
+Awesome Lists:
+  - vsouza/awesome-ios

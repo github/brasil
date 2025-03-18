@@ -2,6 +2,7 @@ name: Trigger deploy on comment
 on:
   issue_comment:
     types: [created]
+permissions: read-all
 jobs:
   if_merged:
     if: github.event.issue.pull_request && contains(github.event.comment.body, '/deploy')
@@ -18,7 +19,7 @@ jobs:
               core.setFailed("User not authorized to deploy")
             }
       - name: Trigger build
-        uses: benc-uk/workflow-dispatch@v1
+        uses: benc-uk/workflow-dispatch@e2e5e9a103e331dad343f381a29e654aea3cf8fc #v1.2.4
         with:
           repo: ${{ secrets.GITHUBBRASIL_REPO_NWO }}
           workflow: Trigger build when public PR is merged
