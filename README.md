@@ -131,7 +131,7 @@ Connect with the GitHub community through conferences, meetups and hackathons.
 
 Stay tuned to what's happening with GitHub Brasil by [following us on Twitter](https://twitter.com/GitHubBrasil).
 
-You are also welcome to participate in [GitHub Discussions](https://github.com/github/brazil/discussions/categories/general) on this repository. Please respect the [code of conduct](CODE_OF_CONDUCT.md) and be awesome to each other!
+You are also welcome to participate in [GitHub Discussions](https://github.com/github/brasil/discussions/categories/general) on this repository. Please respect the [code of conduct](CODE_OF_CONDUCT.md) and be awesome to each other!
 
 ---
 
@@ -254,7 +254,7 @@ Conecte-se com a comunidade do GitHub por meio de conferências, meetups e hacka
 
 Fique por dentro do que está acontecendo com o GitHub Brasil [nos seguindo no Twitter](https://twitter.com/GitHubBrasil).
 
-Você também é bem-vindo para participar das [Discussões do GitHub](https://github.com/github/brazil/discussions/categories/general) neste repositório. Por favor, respeite o [código de conduta](CODE_OF_CONDUCT.md) e seja incrível com os outros!
+Você também é bem-vindo para participar das [Discussões do GitHub](https://github.com/github/brasil/discussions/categories/general) neste repositório. Por favor, respeite o [código de conduta](CODE_OF_CONDUCT.md) e seja incrível com os outros!
 
 ---
 
